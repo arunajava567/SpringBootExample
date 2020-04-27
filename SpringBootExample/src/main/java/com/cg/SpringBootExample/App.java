@@ -15,7 +15,7 @@ public class App
 {
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello welcome to SpringBoot";
+		return "Hello welcome to SpringBoot example";
 	}
     public static void main( String[] args )
     {
